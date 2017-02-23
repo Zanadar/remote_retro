@@ -27,3 +27,6 @@ erl_crash.dump
 
 # Intellij ide config
 .idea
+
+# Vagrant
+.vagrant
